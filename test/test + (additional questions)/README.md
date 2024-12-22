@@ -25,3 +25,41 @@ struct {
 } s;
 ```   
 </li></li>
+
+<ul>
+<li>- [ ] b. <li>
+        
+```cpp
+struct a_struct {
+    int a;
+}
+```   
+</li></li>
+
+<ul>
+<li>- [ ] c. <li>
+        
+```cpp
+struct a_struct int a;
+```   
+</li></li>
+
+<ul>
+<li>- [x] d. <li>
+        
+```cpp
+struct a_struct{
+    int a;
+};
+```   
+</li></li>
+
+<ul>
+<li>- [ ] e. <li>
+        
+```cpp
+struct {
+    int a;
+}
+```   
+</li></li>

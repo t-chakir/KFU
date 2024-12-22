@@ -26,7 +26,7 @@ struct {
 ```   
 </li></li>
 
-<ul>
+
 <li>- [ ] b. <li>
         
 ```cpp

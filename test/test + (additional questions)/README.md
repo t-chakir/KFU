@@ -17,7 +17,7 @@
 
 Ответ:
 <ul>
-<li>- [x] <li>
+<li>- [x] a. <li>
         
 ```cpp
 struct {

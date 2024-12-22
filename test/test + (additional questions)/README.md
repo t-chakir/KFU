@@ -103,7 +103,6 @@ container[-1] = 5;
 
 Язык Go. Что из нижеперечисленного приведёт к объявлению структуры?
 
-(ошибка)
 Ответ:
 - [x] a. 
 ```go
@@ -531,7 +530,6 @@ type Point struct{
 }
 ```
 
-(ошибка)
 Ответ:
 - [x] a. 
 ```go
@@ -1826,13 +1824,12 @@ struct Point{
 
 Язык С++. Что из перечисленного может быть использовано в качестве объявления конструктора по умолчанию для класса `SomeClass`?
 
-(ошибка)
 Ответ:
 - [x] a. `SomeClass() = default;`
 - [x] b. `SomeClass(){}`
 - [ ] c. `SomeClass(int a) = default;`
 - [ ] d. `default SomeClass(){}`
-- [ ] e. `SomeClass(int a=0, int b=0){}`
+- [x] e. `SomeClass(int a=0, int b=0){}`
 - [ ] f. `SomeClass(int a) {}`
 
 ---
@@ -1883,13 +1880,12 @@ b := B{}
 c := C{}
 ```
 
-(ошибка)
 Ответ:
-- [ ] a. a = c
+- [x] a. a = c
 - [ ] b. b = a
 - [x] c. c = a
 - [ ] d. a = b
-- [ ] e. b = c
+- [x] e. b = c
 - [x] f. c = b
 
 ---
@@ -2012,7 +2008,7 @@ struct Point{
 };
 ```
 
-(ошибка)
+
 Ответ:
 - [ ] a. 
 ```cpp
@@ -2024,7 +2020,7 @@ Point p();
 new Point();
 ```
 
-- [ ] c. 
+- [x] c. 
 ```cpp
 class Point p;
 ```

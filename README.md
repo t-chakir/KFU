@@ -2,16 +2,36 @@
 
 ## [Тесты](https://github.com/t-chakir/KFU/tree/main/test)
 
-<div style="color: white; margin-left: 20px;">
-  <ul>
-    <li><a href="https://github.com/t-chakir/KFU/tree/main/test/test_1" style="color: white;">Тест 1</a></li>
-    <li><a href="https://github.com/t-chakir/KFU/tree/main/test/test_2" style="color: white;">Тест 2</a></li>
-    <li><a href="https://github.com/t-chakir/KFU/tree/main/test/test_3" style="color: white;">Тест 3</a></li>
-    <li><a href="https://github.com/t-chakir/KFU/tree/main/test/test_4" style="color: white;">Тест 4</a></li>
-    <li><a href="https://github.com/t-chakir/KFU/tree/main/test/test_5" style="color: white;">Тест 5</a></li>
-    <li><a href="https://github.com/t-chakir/KFU/tree/main/test/test_6" style="color: white;">Тест 6</a></li>
-  </ul>
-</div>
+<style>
+  .test-table a {
+    color: white;
+    text-decoration: none;
+  }
+  .test-table td {
+    padding-left: 20px;
+  }
+</style>
+
+<table class="test-table">
+  <tr>
+    <td><a href="https://github.com/t-chakir/KFU/tree/main/test/test_1">Тест 1</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/t-chakir/KFU/tree/main/test/test_2">Тест 2</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/t-chakir/KFU/tree/main/test/test_3">Тест 3</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/t-chakir/KFU/tree/main/test/test_4">Тест 4</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/t-chakir/KFU/tree/main/test/test_5">Тест 5</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/t-chakir/KFU/tree/main/test/test_6">Тест 6</a></td>
+  </tr>
+</table>
 
 ## [Проект Главный-модуль](https://github.com/t-chakir/KFU/blob/main/IBM-project/IBM.md)
 

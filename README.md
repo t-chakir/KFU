@@ -1,4 +1,4 @@
-# Домашки по кфу 
+# Кфу 1 семестр
 
 [Тесты](https://github.com/t-chakir/KFU/tree/main/test)
 

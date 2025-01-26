@@ -1,5 +1,7 @@
 # Главный модуль
 
+***Автор: [chakir](https://github.com/t-chakir)***
+
 - [Работа с токино и Get, Post запросом](https://github.com/t-chakir/KFU/tree/main/IBM-project/main-module/reg)
 - [Логика тестов и попыток на тест](https://github.com/t-chakir/KFU/tree/main/IBM-project/main-module/test)
 - [Дисциплины](https://github.com/t-chakir/KFU/tree/main/IBM-project/main-module/discipline)

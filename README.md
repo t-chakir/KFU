@@ -1,6 +1,6 @@
 # КФУ
 
-## [Тесты](https://github.com/t-chakir/KFU/tree/main/test)
+## Тесты
 
 - [Тест 1](https://github.com/t-chakir/KFU/tree/main/test/test_1)
 - [Тест 2](https://github.com/t-chakir/KFU/tree/main/test/test_2)

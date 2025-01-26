@@ -13,10 +13,11 @@
 
 ---
 
- [Проект](https://github.com/t-chakir/KFU/blob/main/IBM-project/IBM.md)
-
- 1. [Главный модуль](https://github.com/t-chakir/KFU/blob/main/IBM-project/main-module/main-module.md)
- 2. [Авторизация]
- 3. [Web]
+ [Проект](https://github.com/Wainon/IBM/tree/main)
+ 
+ - [Главный модуль](https://github.com/Wainon/IBM/tree/main/1.Главный%20модуль)
+ - [Модуль авторизации](https://github.com/Wainon/IBM/tree/main/2.Модуль%20авторизации)
+ - [Telegram клиент](https://github.com/Wainon/IBM/tree/main/3)
+ - [Web клиент](https://github.com/Wainon/IBM/tree/main/4.Web%20клиент)
 
 ---

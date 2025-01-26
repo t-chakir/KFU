@@ -12,7 +12,7 @@
 
 1. **Создание базы данных:**
    - Если вы работаете с **Docker**, используйте готовый образ PostgreSQL для быстрой настройки.
-   - Для удобства работы с базой данных в **Visual Studio Code** установите расширение **[SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)**. Оно поддерживает PostgreSQL и позволяет выполнять SQL-запросы прямо из редактора.
+   - Для удобства работы с базой данных в **Visual Studio Code** установите расширение **[SQL Server Client (mssql)](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-myssql-client2)**. Оно поддерживает PostgreSQL и позволяет выполнять SQL-запросы прямо из редактора.
 
 2. **Настройка базы данных:**
    - Создайте базу данных и пользователя с уникальными именами.

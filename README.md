@@ -1,6 +1,6 @@
 # Кфу 1 семестр
 
-[Тесты](https://github.com/t-chakir/KFU/tree/main/test)
+**[Тесты](https://github.com/t-chakir/KFU/tree/main/test)**
 
 - [Тест 1](https://github.com/t-chakir/KFU/tree/main/test/test_1)
 - [Тест 2](https://github.com/t-chakir/KFU/tree/main/test/test_2)
@@ -13,7 +13,7 @@
 
 ---
 
- [Проект](https://github.com/Wainon/IBM/tree/main)
+ **[Проект](https://github.com/Wainon/IBM/tree/main)**
  
  - [Главный модуль](https://github.com/Wainon/IBM/tree/main/1.Главный%20модуль)
  - [Модуль авторизации](https://github.com/Wainon/IBM/tree/main/2.Модуль%20авторизации)
